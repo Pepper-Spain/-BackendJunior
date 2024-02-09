@@ -362,4 +362,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # OutputFile from Exercise3
-*.outputFile.csv
+*outputFile.csv
