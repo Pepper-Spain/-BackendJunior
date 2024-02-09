@@ -1,20 +1,34 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Prueba técnica
+> [!NOTE]  
+> Duración 1h
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Esta prueba técnica está compuesta por tres ejercicios que pretenden medir tus habilidades de lógica de programación. La idea es que realices la prueba del mismo modo en el que llevas a cabo tu trabajo o proyectos personales.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+> [!TIP]
+>- Busca información en internet, documentación oficial, stackoverflow, etc.
+>- Interactua con nostros para resolver dudas
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+# Ejercicio 1
+Escribe un código que muestre por pantalla las 5 ciudades que más veces aparezcan en el array "citiesList". Ordenándolas de mayor a menor según el número de veces que aparezcan en el array.
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Puedes realizar el ejercicio en la clase [Exercise1.cs](src/Exercises/Exercise1/Exercise1.cs)
+
+# Ejercicio 2
+Implementar un programa que resuelva el problema de fizzbuzz. Dado un número entero por parámetro el programa debe cumplir con los siguientes requisitos:
+- Cuando el número sea múltiplo de 3, debe sustituirse por la palabra “fizz”, 
+- Cuando el número sea múltiplo de 5, debe sustituirse por la palabra “buzz” 
+- Cuando el número sea múltiplo de ambos (3 y 5), debe sustituirse por la palabra “fizzbuzz”.
+- Cualquier otro número deberá mantenerse sin modificación.
+
+Por último, reutilizar el código anterior para imprimir por pantalla el resultado de nuestro programa desde el 0 hasta el número indicado por parámetro. Por ejemplo, si recibimos el número 20, nuestro programa deberá devolver un resultado similar al siguiente:
+
+```
+0, 1, 2, fizz, 4, buzz, fizz, 7, 8, fizz, buzz, 11, fizz, 13, 14, fizzbuzz, 16, 17, 18, 19, buzz
+```
+
+Puedes realizar el ejercicio en la clase [Exercise2.cs](src/Exercises/Exercise2/Exercise2.cs)
+
+
+# Ejercicio 3
+
+Explica que hace el código de la clase [Exercise3.cs](src/Exercises/Exercise3/Exercise3.cs). Identifica y corrige los errores en el siguiente código. Si ves algo innecesario, elimínalo.
