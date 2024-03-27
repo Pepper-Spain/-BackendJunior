@@ -6,7 +6,7 @@ Esta prueba técnica está compuesta por tres ejercicios que pretenden medir tus
 
 > [!TIP]
 >- Busca información en internet, documentación oficial, stackoverflow, etc.
->- Interactua con nostros para resolver dudas
+>- Interactua con nosotros para resolver dudas y recibir recomendaciones.
 
 # Ejercicio 1
 Escribe un código que muestre por pantalla las 5 ciudades que más veces aparezcan en el array "citiesList". Ordenándolas de mayor a menor según el número de veces que aparezcan en el array.
