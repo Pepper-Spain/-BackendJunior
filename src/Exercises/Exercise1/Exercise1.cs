@@ -25,7 +25,7 @@ namespace Exercises.Exercise1
             "madrid",
             "barcelona",
             "alicante",
-            "jaen",
+            "jaén",
             "cádiz",
             "gijón",
             "sevilla",
